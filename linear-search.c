@@ -6,7 +6,7 @@
 int main() {
   int size = 100;
   int array[size];
-  int search = 42;
+  int search = 45;
   int index;
 
   for(index = 0; index < size; index++) {
